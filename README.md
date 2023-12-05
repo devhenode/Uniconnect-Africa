@@ -1,29 +1,15 @@
-# uni_connect-africa
+## Welcome to Uniconnect Africa
 
-This template should help get you started developing with Vue 3 in Vite.
+A board for African Aspirant Undergraduate to find the best fit University for themselves through a Large pool of University resources. A place where you can Tailor your search to your taste and your very own Criteria. You can search for courses offered in the School, Internship opportunities around the School and other useful informations.   
 
-## Recommended IDE Setup
+## Let's Talk about version 1.0
+- We won't be able to reach other countries for now except the home country 
+at the moment (Nigeria).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Why version 1.0??
+- we are so short on man power, and this needs to be delivered early as an MVP
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+````sh
+   Reach out for further Questions  
+````sh
